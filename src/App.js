@@ -1,7 +1,7 @@
-import logo from "./logo.svg";
+import TopNavBar from "./TopNavBar";
 
 function App() {
-  return <h1>Hello World</h1>;
+  return <TopNavBar />;
 }
 
 export default App;
